@@ -106,7 +106,7 @@ scipy>=1.7.0
 
 ### Exécution complète
 ```python
-python analyse_conversationnelle.py
+python augesc_analysis.py
 ```
 
 ### Fonctionnalités principales :
@@ -183,13 +183,9 @@ Les contributions sont les bienvenues ! Pour contribuer :
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvre une Pull Request
 
-## 📝 License
-
-Distribué sous licence MIT. Voir `LICENSE` pour plus d'informations.
-
 ## ✨ Auteur
 
-**Fatima Zahra Bourzguia**
+**Fatima Zahra Bourzgui**
 - GitHub: [@Bourzguifatimazahra](https://github.com/Bourzguifatimazahra)
 - Projet: [DATA-ANALYST-AUGESC](https://github.com/Bourzguifatimazahra/DATA-ANALYST-AUGESC)
 
