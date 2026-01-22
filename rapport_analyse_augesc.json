@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "date_analyse": "2026-01-22 00:26:39",
+    "script_version": "3.0",
+    "dataset_original": "90981 lignes, 13 colonnes"
+  },
+  "nettoyage": {
+    "valeurs_manquantes": 0,
+    "outliers_traites": 2,
+    "colonnes_normalisees": 3,
+    "colonnes_encodees": 3
+  },
+  "donnees_finales": {
+    "lignes": 90981,
+    "colonnes": 31,
+    "features_crees": 17
+  },
+  "statistiques": {
+    "strength": {
+      "distribution": {
+        "0": 90948,
+        "1": 22,
+        "-1": 11
+      },
+      "moyenne": 0.00012090436464756378,
+      "positif": 22,
+      "negatif": 11,
+      "neutre": 90948
+    },
+    "message_length": {
+      "moyenne": 0.38291153930250876,
+      "ecart_type": 0.2439866425101548,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "speakers": {
+      "1": {
+        "count": 44580,
+        "percentage": 48.99924159989448
+      },
+      "0": {
+        "count": 46401,
+        "percentage": 51.00075840010552
+      }
+    }
+  },
+  "machine_learning": {
+    "nombre_modeles": 6,
+    "meilleur_modele": "Logistic Regression",
+    "accuracy_meilleur": 1.0,
+    "top_3_modeles": [
+      {
+        "Modèle": "Logistic Regression",
+        "Accuracy": 1.0
+      },
+      {
+        "Modèle": "Random Forest",
+        "Accuracy": 1.0
+      },
+      {
+        "Modèle": "Gradient Boosting",
+        "Accuracy": 1.0
+      }
+    ]
+  }
+}
